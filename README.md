@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Now I'm study at watbowonniwet school , I'v been learning to code for 5 years , I started with Python & HTML but have really found a passion for frontend development
+Now I'm study at rajamangala university of technology phra nakhon , I'v been learning to code for 5 years , I started with Python & HTML but have really found a passion for frontend development
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio.chokun.co)
