@@ -1,15 +1,13 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Teerachanon Puanngern
 =============================================================================================================================================
 
-Student
--------
 
-Now I'm study at rajamangala university of technology phra nakhon , I'v been learning to code for 5 years , I started with Python & HTML but have really found a passion for frontend development
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio.chokun.co)
-* ✉️  You can contact me at [teerachanon6644@gmail.com](mailto:teerachanon6644@gmail.com)
-* 🧠  I'm learning a new framework
+* 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my portfolio at [MyPortfolio](http://portfolio.chokun.cloud)
+* ✉️  You can contact me at [teerachanon6644@gmail.com](mailto:teerachanon6644@gmail.com)
+* 🧠  I'm learning a new framework
 
 ### Skills
 
